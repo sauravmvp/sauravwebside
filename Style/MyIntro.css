@@ -1,0 +1,67 @@
+.main .myintro{
+    padding-left: 10px;
+}
+
+.main .myintro h2{
+    padding: 10px 0 0 20px;
+}
+
+.main .myintro .myskillcontainer .box{
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.main .myintro .myskillcontainer .skillitem{
+    padding: 7px;
+    font-size: 15px;
+    display: flex;
+    flex-direction:  row;
+    /* display: flex; */
+    align-items: center;
+}
+
+.skill{
+    padding-left: 10px;
+    height: 7px;
+    /* background-color: red; */
+    width: 500px;
+}
+
+.corejava{
+    width: 450px;
+    background-color: red;
+}
+
+.oops{
+    width: 450px;
+    background-color: green;
+}
+
+.html{
+    width: 450px;
+    background-color: red;
+}
+
+.css{
+    width: 300px;
+    background-color: pink;
+}
+
+.javascript{
+    width: 250px;
+    background-color: rgb(190, 92, 92);
+}
+
+.php{
+    width: 200px;
+    background-color: blueviolet;
+}
+.react{
+    width: 100px;
+    background-color: green;
+}
+.mysql{
+    width: 430px;
+    background-color: rgb(104, 156, 245);
+}

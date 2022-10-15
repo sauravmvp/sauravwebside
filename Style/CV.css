@@ -1,0 +1,33 @@
+.main .education{
+    height: 80vh;
+    width: 100vw;
+    /* background-color: aqua; */
+}
+
+.main .education .highschool{
+    /* background-color: red; */
+    padding: 20px;
+    height: 20vh;
+    width: 100vw;
+}
+
+.main .education .intercollage{
+    /* background-color: red; */
+    padding: 20px;
+    height: 20vh;
+    width: 100vw;
+}
+
+.main .education .diploma{
+    /* background-color: red; */
+    padding: 20px;
+    height: 20vh;
+    width: 100vw;
+}
+
+.main .education .btech{
+    /* background-color: red; */
+    padding: 20px;
+    height: 20vh;
+    width: 100vw;
+}
